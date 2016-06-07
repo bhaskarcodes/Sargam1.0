@@ -12,5 +12,5 @@ Playing after pausing will resume the file from where it was paused. A Loop butt
 messages are shown to give a feedback for the button pressed by user.  
 
 <p align = "center">
-<img src = ""></img>
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Sargam1.0/master/Untitled.png"></img>
 </p>
